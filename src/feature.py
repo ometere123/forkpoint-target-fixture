@@ -1,5 +1,5 @@
 def feature_marker_one():
-    return "forkpoint-yes-one".upper()
+    return "forkpoint-mixed-one".upper()
 
 def feature_marker_two():
-    return "forkpoint-yes-two".upper()
+    return "forkpoint-mixed-two".upper()
